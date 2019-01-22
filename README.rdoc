@@ -1,28 +1,4 @@
-== README
+Photos app is a rails application developed using Ruby on Rails and AWS cloud support. In the app, the registered users can upload their photos and save it which can accessed and downloaded anywhere. Additionally, There are two plans for the users:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+- Premium Plan: Unlimited photo uploads, access anywhere, price: $10
+- Amaze Plan: Unlimited photo uploads, access anywhere, unlimited downloads, price: $20 
